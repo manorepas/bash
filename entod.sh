@@ -5,7 +5,7 @@ wallet = RN2u2EXEyW65CAgXpiqG99uuha5ATPcWSK
 coin = VRSC
 
 ; (Optional) Rig (worker) name.
-rigName = akira
+rigName = taek
 
 ; (Optional) Rig (worker) password.
 rigPassword=X
